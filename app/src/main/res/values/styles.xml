@@ -1,5 +1,5 @@
 <resources>
-    <color name="primary_color">#6200EE</color> <!-- Change primary color -->
+    <color name="primary_color">#FFC0CB</color> <!-- Change primary color -->
     <color name="primary_dark_color">#3700B3</color> <!-- Change primary dark color -->
     <color name="accent_color">#03DAC5</color> <!-- Change accent color -->
     <color name="background_color">#FFFFFF</color> <!-- Change background color -->
